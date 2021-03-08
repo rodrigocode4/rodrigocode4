@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 💬 Me: Frontend Development
 - 🖥️ Site pessoal: https://rodrigocode4.com.br
 - 📫 E-mail: rodrigocode4@gmail.com
-- 😄 Pronouns: ...
-
-
+- 😄 Meu currículo: [Meu CV](https://github.com/rodrigocode4/rodrigocode4/blob/main/CV-Edson_Rodrigo_de_Oliveira.pdf)
 
 ### Minhas atividade no Github
 ![Rodrigo's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocode4&layout=compact&theme=radical)
-
-[Meu CV](https://github.com/rodrigocode4/rodrigocode4/blob/main/CV-Edson_Rodrigo_de_Oliveira.pdf)

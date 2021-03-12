@@ -7,8 +7,6 @@ Amante de bons livros, código e café.
 
 ---
 
-Here are some ideas to get you started:
-
 - 🔭 Tecnologias: Javascript(ES6+) | Typescript | React | Node | Cypress | Jest
 - 🌱 Sempre aprendendo sobre o tecnologia, a vida e o universo.
 - 💬 Me: Frontend Development

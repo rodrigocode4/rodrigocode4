@@ -9,7 +9,7 @@ Amante de bons livros, código e café.
 
 - 🔭 Tecnologias: Javascript(ES6+) | Typescript | React | Node | Cypress | Jest
 - 🌱 Sempre aprendendo sobre o tecnologia, a vida e o universo.
-- 💬 Me: Frontend Development
+- 💬 Me: Developer
 - 🖥️ Site pessoal: https://rodrigocode4.com.br
 - 📫 E-mail: rodrigocode4@gmail.com
 - 😄 Meu currículo: [Meu CV](https://github.com/rodrigocode4/rodrigocode4/blob/main/CV-Edson_Rodrigo_de_Oliveira.pdf)

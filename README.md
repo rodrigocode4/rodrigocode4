@@ -14,6 +14,7 @@ Amante de bons livros, código e café.
 - 📫 E-mail: rodrigocode4@gmail.com
 - 😄 Meu currículo: [Meu CV](https://github.com/rodrigocode4/rodrigocode4/blob/main/CV-Edson_Rodrigo_de_Oliveira.pdf)
 - 💻 Meu setup: [ASUS VivoBook 15 X510UR](https://dlcdnets.asus.com/pub/ASUS/nb/X510UA/0816_PG14403_X510_V2_A.pdf)
+- 🛠 Ferramentas: [Meus apps](https://github.com/rodrigocode4/my-apps-base)
 
 ### Minhas atividade no Github
 ![Rodrigo's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocode4&layout=compact&theme=radical)

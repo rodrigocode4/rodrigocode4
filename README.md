@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ---
-Originário do interior do Pará, from Ourém city, me chamo Edson Rodrigo de Oliveira, tenho 24 anos e sou graduado bacharelado em Sistemas de Informação - UFPA. 
+Originário do interior do Pará, _from Ourém city_, me chamo Edson Rodrigo de Oliveira, tenho 24 anos e sou graduado bacharelado em Sistemas de Informação - UFPA. 
 
 Amante de bons livros, código e café.
 

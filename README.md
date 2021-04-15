@@ -10,9 +10,9 @@ Amante de bons livros, código e café.
 - 🔭 Tecnologias: Javascript(ES6+) | Typescript | React | Node | Cypress | Jest
 - 🌱 Sempre aprendendo sobre o tecnologia, a vida e o universo.
 - 💬 Me: Developer
-- 🖥️casa Site pessoal: https://rodrigocode4.com.br
+- 🖥️ Site pessoal: https://rodrigocode4.com.br
 - 📫 E-mail: rodrigocode4@gmail.com
-- 😄 Meu currículo: [Meu CV](https://github.com/rodrigocode4/rodrigocode4/blob/main/CV-Edson_Rodrigo_de_Oliveira.pdf)
+- 😄 Meu currículo: [CV](https://github.com/rodrigocode4/rodrigocode4/blob/main/CV-Edson_Rodrigo_de_Oliveira.pdf)
 - 💻 Meu setup: [ASUS VivoBook 15 X510UR](https://dlcdnets.asus.com/pub/ASUS/nb/X510UA/0816_PG14403_X510_V2_A.pdf)
 - 🛠 Ferramentas: [Meus apps](https://github.com/rodrigocode4/my-apps-base)
 
